@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=6000&lines=Welcome+There!+,+Adbiyas+Solution+Ltd;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=6000&lines=Welcome+There!+,Adbiyas+Solution+Ltd;" />
 </h1>
 
 <h3 align="center">A Passionate Software Development and Travel & Tour Company</h3>
