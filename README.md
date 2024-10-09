@@ -5,7 +5,7 @@
 <h3 align="center">A Passionate Software Development and Travel & Tour Company</h3>
 
 <p align="center">
-    <img src="Adbiyas.png" alt="adbiyas logo" width="300" />
+    <img src="Adbiyas.png" alt="adbiyas logo" width="1400" />
 </p>
 
 <p align="center">
