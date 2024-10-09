@@ -1,7 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=6000&lines=Hi+👋,I'm;+Mohammad+Ibrahim;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=6000&lines=Welcome There!+👋, Adbiyas Soluation Ltd;" />
 </h1>
-<h3 align="center">A passionate frontend & Backend developer from Bangladesh</h3>
+<h3 align="center">A passionate Software Development and Travel And Tour Company</h3>
 
 <p align="left"> <img src="Adbiyas.png" alt="ibrahim23dev" /> </p>
 
